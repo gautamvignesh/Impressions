@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impression_New", "Impression_New\Impression_New.csproj", "{56E74571-81EA-49C3-988B-DFEE86F3BE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imprs_PL", "Imprs_PL\Imprs_PL.csproj", "{2B9E164B-2F41-4D72-887F-516AAB892C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imprs_BL", "Imprs_BL\Imprs_BL.csproj", "{A83FA5E4-AAFC-445F-9588-C281B7A3F2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imprs_DL", "Imprs_DL\Imprs_DL.csproj", "{B29A17FF-09B4-4AFA-BB9D-0DB52634FA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E74571-81EA-49C3-988B-DFEE86F3BE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E74571-81EA-49C3-988B-DFEE86F3BE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E74571-81EA-49C3-988B-DFEE86F3BE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E74571-81EA-49C3-988B-DFEE86F3BE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9E164B-2F41-4D72-887F-516AAB892C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9E164B-2F41-4D72-887F-516AAB892C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9E164B-2F41-4D72-887F-516AAB892C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9E164B-2F41-4D72-887F-516AAB892C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83FA5E4-AAFC-445F-9588-C281B7A3F2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83FA5E4-AAFC-445F-9588-C281B7A3F2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83FA5E4-AAFC-445F-9588-C281B7A3F2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83FA5E4-AAFC-445F-9588-C281B7A3F2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29A17FF-09B4-4AFA-BB9D-0DB52634FA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29A17FF-09B4-4AFA-BB9D-0DB52634FA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29A17FF-09B4-4AFA-BB9D-0DB52634FA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29A17FF-09B4-4AFA-BB9D-0DB52634FA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.Interception.2.1.505.0\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Data.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Security.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Security.Cryptography.5.0.505.0\lib\NET35
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ltimis.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Impression_New\\Impression_New.csproj
+		SccProjectName1 = Impression_New
+		SccLocalPath1 = Impression_New
+		SccProjectUniqueName2 = Imprs_PL\\Imprs_PL.csproj
+		SccProjectName2 = Imprs_PL
+		SccLocalPath2 = Imprs_PL
+		SccProjectUniqueName3 = Imprs_BL\\Imprs_BL.csproj
+		SccProjectName3 = Imprs_BL
+		SccLocalPath3 = Imprs_BL
+		SccProjectUniqueName4 = Imprs_DL\\Imprs_DL.csproj
+		SccProjectName4 = Imprs_DL
+		SccLocalPath4 = Imprs_DL
+	EndGlobalSection
+EndGlobal
